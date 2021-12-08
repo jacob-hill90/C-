@@ -1,3 +1,3 @@
 # C++
 
-C++ files that I've made (need compiling)
+C++ programs I've made (need compiling)
